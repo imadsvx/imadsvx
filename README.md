@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **a lot of Skills**
 
-- 💬 Ask me anything about **Security**
+- 💬 Ask me anything about **Cyber Security**
 
 - 📫 How to reach me **mishabimadeddinepro@gmail.com**
 
@@ -29,7 +29,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ifyouwanthaha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ifyouwanthaha" /></a></p><br><br>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" width="400"src="https://github-readme-stats.vercel.app/api/top-langs?username=imadsvx&show_icons=true&locale=en&layout=compact" alt="imadsvx" />
-  <br><br>
-<img align="right" width="400"src="https://github-readme-stats.vercel.app/api?username=imadsvx&show_icons=true&locale=en" alt="imadsvx" />
-<img align="left" width="400"src="https://github-readme-streak-stats.herokuapp.com/?user=imadsvx&" alt="imadsvx" /></p>
