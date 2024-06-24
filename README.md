@@ -9,11 +9,12 @@ Check my blog at [https://vincentyiu.com](https://vincentyiu.com)!
 
 Check my Red Team Tips at [https://vysecurity.rocks](https://vysecurity.rocks)!
 
-Coffee Link at [https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ifyouwanthaha"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ifyouwanthaha")
+Coffee Link at [https://www.buymeacoffee.com/ifyouwanthaha](https://www.buymeacoffee.com/ifyouwanthaha)
 
 ## About Me
 
-<img align="right" alt="software development" width="400"src="https://ardas-it.com/uploads/images/blogs/giph.gif">
+<img align="right" width=280 alt="GIF" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"/>  
+
 
 I'm **Imadeddine Mis**, a **Cyber Security Engineer**. I specialize in Pentesting, with foundational skills in red teaming and a commitment to continuous learning. With a strong background in identifying and exploiting vulnerabilities, I focus on simulating advanced attacks to enhance system security.
 
