@@ -1,6 +1,6 @@
 # Hey 👋, I'm implex!
 
-<a href="www.linkedin.com/in/mishabimadeddine" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/mishabimadeddine" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/imadsvx" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/imadsvx/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=imadsvx&label=Profile%20views&color=0e75b6&style=flat" alt="imadsvx" /> </a>
