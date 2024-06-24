@@ -5,9 +5,9 @@
 <a href="https://github.com/imadsvx/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=imadsvx&label=Profile%20views&color=0e75b6&style=flat" alt="imadsvx" /> </a>
 
-Check my blog at [https://vincentyiu.com](https://vincentyiu.com)!
+Check my blog at [soon](soon)!
 
-Check my Red Team Tips at [https://vysecurity.rocks](https://vysecurity.rocks)!
+Check my Red Team Tips at [soon](soon)!
 
 Coffee Link at [https://www.buymeacoffee.com/ifyouwanthaha](https://www.buymeacoffee.com/ifyouwanthaha)
 
@@ -22,16 +22,18 @@ Passionate about ongoing improvement, I enjoy sharing my knowledge and collabora
 
 Career Milestones:
 * Founder / Director, Shayron Security
-* Hack the box, Tryhackme, Rootme, Secdojo CTF Player
+* Hack The Box, TryHackMe, RootMe, SecDojo CTF Player
 * National Cyber Security Challenge (M.A.) DGSSI Top 10 & Finalist INPT 2024
 
 
 ## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 
